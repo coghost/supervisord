@@ -1,0 +1,2 @@
+# supervisord
+go supervisord monitor
